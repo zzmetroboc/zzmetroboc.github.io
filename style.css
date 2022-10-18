@@ -4,3 +4,6 @@
     box-sizing: border-box;
     font-family: "PingFangSC-Regular", "Microsoft YaHei", "Open Sans", Arial, "Hiragino Sans GB", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
 }
+a {
+    text-decoration: none
+}
